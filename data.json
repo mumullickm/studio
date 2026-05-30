@@ -35,8 +35,9 @@
         "fontRule": "EB Garamond reserved for prayer / dua / tagline / Madinah. Geist everywhere else."
       },
       "links": [
-        { "label": "Brand book", "url": "aykiz-brand/index.html" },
-        { "label": "Site repo",  "url": "https://github.com/mumullickm/aykiz-site" }
+        { "label": "Brand book",    "url": "https://mumullickm.github.io/aykiz-brand/" },
+        { "label": "Type specimen", "url": "https://mumullickm.github.io/aykiz-brand/type-specimen.html" },
+        { "label": "Site repo",     "url": "https://github.com/mumullickm/aykiz-site" }
       ],
       "next": ["Wire the Studio WebView tab", "Wire YOU-tab card to this dashboard"]
     },
