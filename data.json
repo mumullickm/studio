@@ -62,6 +62,7 @@
         "fontRule": "Gold only on emerald, never on cream."
       },
       "links": [
+        { "label": "Brand book",    "url": "https://mumullickm.github.io/wasilah-brand/" },
         { "label": "wasilah.site",  "url": "https://wasilah.site" },
         { "label": "Google Play",   "url": "https://play.google.com/store/apps/details?id=site.wasilah.wasilah" }
       ],
@@ -124,10 +125,10 @@
       "kind": "Islamic 2D game — Light in the Dark",
       "tagline": "One-touch flier. Oil is sight.",
       "status": "building",
-      "statusNote": "Web prototype LIVE on Vercel. Becoming an Android game; store assets being prepped. First of the two games (with Sabr) to get active work.",
+      "statusNote": "On Google Play Console, pending publish. New Radiant Star app icon wired (flame in nested 8-point stars). Web prototype LIVE on Vercel. First of the two games (with Sabr) to get active work.",
       "version": "1.0.0+1",
-      "updated": "2026-05-30",
-      "platforms": ["Web (Vercel)", "Android (prepping)"],
+      "updated": "2026-05-31",
+      "platforms": ["Google Play (pending)", "Web (Vercel)"],
       "brand": {
         "colors": [
           { "name": "Ground night", "hex": "#0A0D1F" },
@@ -139,10 +140,11 @@
         "fontRule": "Oil-lamp glow palette; light reveals the path."
       },
       "links": [
+        { "label": "Icon / brand",  "url": "https://mumullickm.github.io/misbah-brand/" },
         { "label": "Web prototype", "url": "https://islamic-games-rho.vercel.app" },
         { "label": "Site repo",     "url": "https://github.com/mumullickm/misbah-site" }
       ],
-      "next": ["Finish native Android build", "Stage Play store assets"]
+      "next": ["Upload Radiant Star icon to Play listing", "Publish from Play Console", "Stage remaining store assets"]
     },
     {
       "id": "probashi",
