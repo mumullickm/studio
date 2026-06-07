@@ -47,10 +47,10 @@
       "kind": "Islamic prayer + worship companion",
       "tagline": "Sadaqah jariyah. Reach is the only KPI.",
       "status": "live",
-      "statusNote": "Android LIVE on Play (v1.3.0+14). iOS Build 10 rejected 4.3(a) 2026-05-28; Review Board appeal filed same day. HOLD iOS, ship v2.0 on Android.",
-      "version": "Android 1.3.0+14 · iOS Build 10 (appeal)",
-      "updated": "2026-05-28",
-      "platforms": ["Google Play", "App Store (appeal)", "Web"],
+      "statusNote": "LIVE on both stores. App Store 1.5.2 cleared review and is downloadable (iPhone, iPad, Mac); the 4.3 issue is resolved. Google Play live and active.",
+      "version": "App Store 1.5.2 · Google Play 1.5.x",
+      "updated": "2026-06-07",
+      "platforms": ["App Store", "Google Play", "Web"],
       "brand": {
         "colors": [
           { "name": "Deep emerald",  "hex": "#004B49" },
@@ -64,9 +64,10 @@
       "links": [
         { "label": "Brand book",    "url": "https://mumullickm.github.io/wasilah-brand/" },
         { "label": "wasilah.site",  "url": "https://wasilah.site" },
+        { "label": "App Store",     "url": "https://apps.apple.com/app/id6767919573" },
         { "label": "Google Play",   "url": "https://play.google.com/store/apps/details?id=site.wasilah.wasilah" }
       ],
-      "next": ["Await Board verdict (window to 2026-06-25, ceiling 2026-06-09)", "Ship Android v2.0 (v1.4.0)", "Keep social campaign running"]
+      "next": ["Ship v2.0 features (Jumu'ah, nearby masjid finder, onboarding language step)", "Keep social campaign running"]
     },
     {
       "id": "crisp",
