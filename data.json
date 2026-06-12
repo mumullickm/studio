@@ -100,11 +100,11 @@
       "name": "Drafy",
       "kind": "Free static QR generator",
       "tagline": "Blueprint-clean QR, no subscription.",
-      "status": "review",
-      "statusNote": "v1.0.0+1 LIVE to 35 testers. v1.0.0+2 in review (Maps-link feature + legibility pass). iOS submission held to ~2026-06-06.",
-      "version": "1.0.0+2",
-      "updated": "2026-05-23",
-      "platforms": ["Google Play", "App Store (held)"],
+      "status": "live",
+      "statusNote": "1.0 LIVE on the App Store since 2026-06-12 (id 6777504506) after the 2.3.7 fix. Web app live at aykizintelligence.com/drafy. Google Play build still in closed testing; public listing pending.",
+      "version": "1.0.0+3",
+      "updated": "2026-06-12",
+      "platforms": ["App Store", "Web", "Google Play (closed test)"],
       "brand": {
         "colors": [
           { "name": "Blueprint navy", "hex": "#0E2A4A" },
@@ -118,18 +118,18 @@
       "links": [
         { "label": "Site repo", "url": "https://github.com/mumullickm/drafy-site" }
       ],
-      "next": ["iOS submission window 2026-06-06 to 06-13", "Bundle id rename com.mumullickm.drafy"]
+      "next": ["Google Play production rollout", "Launch announcement creatives"]
     },
     {
       "id": "misbah",
       "name": "Misbah",
       "kind": "Islamic 2D game — Light in the Dark",
       "tagline": "One-touch flier. Oil is sight.",
-      "status": "building",
-      "statusNote": "On Google Play Console, pending publish. New Radiant Star app icon wired (flame in nested 8-point stars). Web prototype LIVE on Vercel. First of the two games (with Sabr) to get active work.",
+      "status": "review",
+      "statusNote": "Submitted to the App Store 2026-06-12; Google Play distribution expected within days. PGS wired (leaderboard + 8 achievements drafted). Radiant Star icon live. Web prototype LIVE on Vercel.",
       "version": "1.0.0+1",
-      "updated": "2026-05-31",
-      "platforms": ["Google Play (pending)", "Web (Vercel)"],
+      "updated": "2026-06-12",
+      "platforms": ["App Store (in review)", "Google Play (rollout pending)", "Web (Vercel)"],
       "brand": {
         "colors": [
           { "name": "Ground night", "hex": "#0A0D1F" },
@@ -145,7 +145,7 @@
         { "label": "Web prototype", "url": "https://islamic-games-rho.vercel.app" },
         { "label": "Site repo",     "url": "https://github.com/mumullickm/misbah-site" }
       ],
-      "next": ["Upload Radiant Star icon to Play listing", "Publish from Play Console", "Stage remaining store assets"]
+      "next": ["Store approvals (iOS + Play)", "Publish PGS leaderboard + achievements", "Launch posts on Aykiz surfaces"]
     },
     {
       "id": "probashi",
