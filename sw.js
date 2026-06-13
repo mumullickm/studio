@@ -1,7 +1,7 @@
 // Studio PWA service worker.
 // Bump CACHE when shipping new code; data.json is fetched network-first so
 // the deck stays current the moment Mac-Claude updates it.
-const CACHE = 'studio-v1';
+const CACHE = 'studio-v2';
 const SHELL = [
   './',
   './index.html',
