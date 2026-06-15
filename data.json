@@ -2,7 +2,7 @@
  "meta": {
   "owner": "Aykiz Intelligence",
   "tagline": "One deck for every brand.",
-  "updated": "2026-05-31",
+  "updated": "2026-06-15",
   "note": "Curated source of truth. Mac writes, phone reads."
  },
  "statuses": {
@@ -297,6 +297,10 @@
     "fontRule": "Blueprint board aesthetic; QR sits on a white sheet card."
    },
    "links": [
+    {
+     "label": "App Store",
+     "url": "https://apps.apple.com/app/drafy-qr-code-generator/id6777504506"
+    },
     {
      "label": "Site repo",
      "url": "https://github.com/mumullickm/drafy-site"
