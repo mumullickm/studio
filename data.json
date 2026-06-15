@@ -316,13 +316,12 @@
    "name": "Misbah",
    "kind": "Islamic 2D game — Light in the Dark",
    "tagline": "One-touch flier. Oil is sight.",
-   "status": "review",
-   "statusNote": "Submitted to the App Store 2026-06-12; Google Play distribution expected within days. PGS wired (leaderboard + 8 achievements drafted). Radiant Star icon live. Web prototype LIVE on Vercel.",
+   "status": "building",
+   "statusNote": "In closed testing on Google Play (Android). Never submitted to the App Store. Web prototype playable on Vercel. PGS wired (leaderboard + 8 achievements drafted). Radiant Star icon live.",
    "version": "1.0.0+1",
-   "updated": "2026-06-12",
+   "updated": "2026-06-15",
    "platforms": [
-    "App Store (in review)",
-    "Google Play (rollout pending)",
+    "Google Play (closed test)",
     "Web (Vercel)"
    ],
    "brand": {
