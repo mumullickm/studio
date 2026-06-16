@@ -316,12 +316,12 @@
    "name": "Misbah",
    "kind": "Islamic 2D game — Light in the Dark",
    "tagline": "One-touch flier. Oil is sight.",
-   "status": "building",
-   "statusNote": "In closed testing on Google Play (Android). Never submitted to the App Store. Web prototype playable on Vercel. PGS wired (leaderboard + 8 achievements drafted). Radiant Star icon live.",
-   "version": "1.0.0+1",
-   "updated": "2026-06-15",
+   "status": "live",
+   "statusNote": "Live on Google Play (Android) since June 2026. Web prototype on Vercel. PGS leaderboard + 8 achievements drafted (publish pending). Not on the App Store.",
+   "version": "1.0.1+2",
+   "updated": "2026-06-17",
    "platforms": [
-    "Google Play (closed test)",
+    "Google Play",
     "Web (Vercel)"
    ],
    "brand": {
@@ -363,14 +363,17 @@
      "url": "https://islamic-games-rho.vercel.app"
     },
     {
+     "label": "Google Play",
+     "url": "https://play.google.com/store/apps/details?id=com.mumullickm.misbah"
+    },
+    {
      "label": "Site repo",
      "url": "https://github.com/mumullickm/misbah-site"
     }
    ],
    "next": [
-    "Store approvals (iOS + Play)",
     "Publish PGS leaderboard + achievements",
-    "Launch posts on Aykiz surfaces"
+    "Launch post on Aykiz Facebook page"
    ]
   },
   {
