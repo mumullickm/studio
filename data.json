@@ -377,6 +377,61 @@
    ]
   },
   {
+   "id": "hirra",
+   "name": "Hirra",
+   "kind": "AI-first cat health app (Gulf / MENA)",
+   "tagline": "Care, not alarm. Aykiz's first revenue product.",
+   "status": "building",
+   "statusNote": "BUILT on PR #1 (feat/signature-moves), not merged or submitted. Native SwiftUI: rules-based early-warning engine (free) plus a Plus-gated AI vet triage. Triage Worker live at hirra-triage.aykiz.workers.dev on Sonnet 4.6 (API key not yet set). Product page live at aykizintelligence.com/hirra.",
+   "version": "pre-release (PR #1)",
+   "updated": "2026-06-20",
+   "platforms": [
+    "iOS (prepping submission)"
+   ],
+   "brand": {
+    "colors": [
+     {
+      "name": "Teal",
+      "hex": "#0D9488"
+     },
+     {
+      "name": "Sky",
+      "hex": "#0EA5E9"
+     },
+     {
+      "name": "Ink",
+      "hex": "#13343B"
+     },
+     {
+      "name": "Mist",
+      "hex": "#EEF4F5"
+     }
+    ],
+    "fonts": [
+     "Fredoka (display)",
+     "Nunito Sans (UI)",
+     "Tajawal (Arabic)"
+    ],
+    "fontRule": "Calm-clinical; teal primary, five mood-faced cats drive health status."
+   },
+   "links": [
+    {
+     "label": "Product page",
+     "url": "https://aykizintelligence.com/hirra/"
+    },
+    {
+     "label": "Triage Worker",
+     "url": "https://hirra-triage.aykiz.workers.dev/triage"
+    }
+   ],
+   "next": [
+    "Set ANTHROPIC_API_KEY + a low spend cap",
+    "Server-side entitlement check on the Worker",
+    "ASC record + reserve the name (KSA / UAE)",
+    "Merge PR #1"
+   ]
+  },
+  {
    "id": "probashi",
    "name": "Probashi",
    "kind": "KSA migrant survival guide",
