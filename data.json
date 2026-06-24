@@ -317,9 +317,9 @@
    "kind": "Islamic 2D game — Light in the Dark",
    "tagline": "One-touch flier. Oil is sight.",
    "status": "live",
-   "statusNote": "Live on Google Play (Android) since June 2026. Web prototype on Vercel. PGS leaderboard + 8 achievements drafted (publish pending). Not on the App Store.",
+   "statusNote": "Live on Google Play (Android) since June 2026. Web prototype on Vercel. PGS leaderboard + 8 achievements published. Not on the App Store.",
    "version": "1.0.1+2",
-   "updated": "2026-06-17",
+   "updated": "2026-06-24",
    "platforms": [
     "Google Play",
     "Web (Vercel)"
@@ -372,8 +372,8 @@
     }
    ],
    "next": [
-    "Publish PGS leaderboard + achievements",
-    "Launch post on Aykiz Facebook page"
+    "Launch post on Aykiz Facebook page",
+    "Ship the line-art icon on the next Android build"
    ]
   },
   {
