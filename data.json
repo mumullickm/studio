@@ -317,10 +317,11 @@
    "kind": "Islamic 2D game — Light in the Dark",
    "tagline": "One-touch flier. Oil is sight.",
    "status": "live",
-   "statusNote": "Live on Google Play (Android) since June 2026. Web prototype on Vercel. PGS leaderboard + 8 achievements published. Not on the App Store.",
+   "statusNote": "Live on the App Store (approved July 2026) and Google Play (since June 2026). Web prototype on Vercel. PGS leaderboard + 8 achievements published.",
    "version": "1.0.1+2",
-   "updated": "2026-06-24",
+   "updated": "2026-07-02",
    "platforms": [
+    "App Store (iOS)",
     "Google Play",
     "Web (Vercel)"
    ],
@@ -355,6 +356,10 @@
      "url": "https://aykizintelligence.com/misbah/"
     },
     {
+     "label": "App Store",
+     "url": "https://apps.apple.com/app/id6781614427"
+    },
+    {
      "label": "Icon / brand",
      "url": "https://mumullickm.github.io/misbah-brand/"
     },
@@ -381,12 +386,12 @@
    "name": "Hirra",
    "kind": "AI-first cat health app (Gulf / MENA)",
    "tagline": "Care, not alarm. Aykiz's first revenue product.",
-   "status": "building",
-   "statusNote": "In development. Native SwiftUI: rules-based early-warning engine (free) plus a Plus-gated AI vet triage. Product page live at aykizintelligence.com/hirra.",
-   "version": "pre-release",
-   "updated": "2026-06-20",
+   "status": "live",
+   "statusNote": "Live on the App Store (approved July 2026). Native SwiftUI: rules-based early-warning engine (free) plus a Plus-gated AI vet triage ($2.99/mo, $19.99/yr, 7-day trial). Product page at aykizintelligence.com/hirra.",
+   "version": "1.0 (1)",
+   "updated": "2026-07-02",
    "platforms": [
-    "iOS (prepping submission)"
+    "App Store (iOS)"
    ],
    "brand": {
     "colors": [
@@ -418,11 +423,16 @@
     {
      "label": "Product page",
      "url": "https://aykizintelligence.com/hirra/"
+    },
+    {
+     "label": "App Store",
+     "url": "https://apps.apple.com/us/app/hirra-cat-health-tracker/id6782975522"
     }
    ],
    "next": [
-    "Reserve the name (KSA / UAE)",
-    "Prep App Store submission"
+    "Verify the production purchase path",
+    "Wire the in-app review prompt at the delight moment",
+    "Reserve the name (KSA / UAE)"
    ]
   },
   {
