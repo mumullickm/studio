@@ -38,7 +38,7 @@
    "kind": "Personal command center + house brand",
    "tagline": "The studio everything else ships under.",
    "status": "building",
-   "statusNote": "v0.12.0+6 sideloaded. Connectors panel live (Slack / Granola / Box via Notion mirror).",
+   "statusNote": "v0.12.0+6 sideloaded. Connectors panel live.",
    "version": "0.12.0+12",
    "updated": "2026-05-27",
    "platforms": [
@@ -382,8 +382,8 @@
    "kind": "AI-first cat health app (Gulf / MENA)",
    "tagline": "Care, not alarm. Aykiz's first revenue product.",
    "status": "building",
-   "statusNote": "BUILT on PR #1 (feat/signature-moves), not merged or submitted. Native SwiftUI: rules-based early-warning engine (free) plus a Plus-gated AI vet triage. Triage Worker live at hirra-triage.aykiz.workers.dev on Sonnet 4.6 (API key not yet set). Product page live at aykizintelligence.com/hirra.",
-   "version": "pre-release (PR #1)",
+   "statusNote": "In development. Native SwiftUI: rules-based early-warning engine (free) plus a Plus-gated AI vet triage. Product page live at aykizintelligence.com/hirra.",
+   "version": "pre-release",
    "updated": "2026-06-20",
    "platforms": [
     "iOS (prepping submission)"
@@ -418,17 +418,11 @@
     {
      "label": "Product page",
      "url": "https://aykizintelligence.com/hirra/"
-    },
-    {
-     "label": "Triage Worker",
-     "url": "https://hirra-triage.aykiz.workers.dev/triage"
     }
    ],
    "next": [
-    "Set ANTHROPIC_API_KEY + a low spend cap",
-    "Server-side entitlement check on the Worker",
-    "ASC record + reserve the name (KSA / UAE)",
-    "Merge PR #1"
+    "Reserve the name (KSA / UAE)",
+    "Prep App Store submission"
    ]
   },
   {
@@ -437,7 +431,7 @@
    "kind": "KSA migrant survival guide",
    "tagline": "Halal-income build. PDF + audio bundle for BD workers heading to KSA.",
    "status": "building",
-   "statusNote": "Active. One-time bundle sold via bKash-gated web, plus a free companion-app layer. License-safe scope (no trade license).",
+   "statusNote": "Active. One-time content bundle plus a free companion-app layer. License-safe scope.",
    "version": "in design",
    "updated": "2026-05-27",
    "platforms": [
