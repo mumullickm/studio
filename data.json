@@ -2,7 +2,7 @@
  "meta": {
   "owner": "Aykiz Intelligence",
   "tagline": "One deck for every brand.",
-  "updated": "2026-06-15",
+  "updated": "2026-07-04",
   "note": "Curated source of truth. Mac writes, phone reads."
  },
  "statuses": {
@@ -396,28 +396,32 @@
    "brand": {
     "colors": [
      {
-      "name": "Teal",
-      "hex": "#0D9488"
-     },
-     {
-      "name": "Sky",
-      "hex": "#0EA5E9"
-     },
-     {
       "name": "Ink",
       "hex": "#13343B"
      },
      {
       "name": "Mist",
       "hex": "#EEF4F5"
+     },
+     {
+      "name": "Healthy",
+      "hex": "#10B981"
+     },
+     {
+      "name": "Watch",
+      "hex": "#F59E0B"
+     },
+     {
+      "name": "Alert",
+      "hex": "#F43F5E"
      }
     ],
     "fonts": [
-     "Fredoka (display)",
+     "Nunito (display)",
      "Nunito Sans (UI)",
-     "Tajawal (Arabic)"
+     "IBM Plex Sans Arabic (Arabic)"
     ],
-    "fontRule": "Calm-clinical; teal primary, five mood-faced cats drive health status."
+    "fontRule": "Monochrome ink; colour appears only as health status (emerald / amber / rose). Logo = the app icon, the peeking cat."
    },
    "links": [
     {
@@ -427,6 +431,10 @@
     {
      "label": "App Store",
      "url": "https://apps.apple.com/us/app/hirra-cat-health-tracker/id6782975522"
+    },
+    {
+     "label": "Brand book",
+     "url": "https://mumullickm.github.io/hirra-brand/"
     }
    ],
    "next": [
